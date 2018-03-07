@@ -1,0 +1,21 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "twitter bot from the coding train tutorial",
+  "main": "bot",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "short",
+    "quick",
+    "bot"
+  ],
+  "author": "Tang Li Qun",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "twit": "^2.2.9"
+  }
+}
